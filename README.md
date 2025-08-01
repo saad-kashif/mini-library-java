@@ -64,6 +64,3 @@ Book added successfully!
 * Conditionals & Loops
 * Problem Solving
 * Console-based App Design
-
-👉 Do you want me to now prepare the same **GitHub + LinkedIn package** for your **Student Management System (Python)** semester project next?
-```
